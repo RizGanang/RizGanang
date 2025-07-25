@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+My name is Rizki Ganang Prakoso
+- 🏫 currently attending school at SMK Negeri 1 Banyumas
 <!--
 **RizGanang/RizGanang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
