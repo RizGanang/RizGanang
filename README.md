@@ -1,7 +1,8 @@
 ## Hi there 👋
 My name is Rizki Ganang Prakoso
-- 🏫 Currently I am studying at SMK Negeri 1 Banyumas
-- 👨‍💻 Currently I am studying technology
+- 🏫 I'm currently studying on SMK Negeri 1 Banyumas
+- 👨‍💻 I'm currently learning technology
+- 🎮 my hobby is playing video games
 <!--
 **RizGanang/RizGanang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
