@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Rizki Ganang Prakoso
+My name is Ganang
 - 🏫 I'm currently studying on SMK Negeri 1 Banyumas
 - 👨‍💻 I'm currently learning technology
 - 🎮 my hobby is playing video games
