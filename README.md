@@ -2,6 +2,7 @@
 - My name is Rizki Ganang Prakoso
 - Currently i am a student at SMKN 1 Banyumas
 - I am a technology enthusiast, and currently interested in learning about cybersecurity, CTF, and Linux.
+
 **My Biodata**
   
 - Name : Rizki Ganang Prakoso
