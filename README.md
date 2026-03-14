@@ -7,7 +7,7 @@
   
 - Name : Rizki Ganang Prakoso
 - Status : Student at SMKN1 Banyumas
-- Hobby : Playing some video games (Persona Series is my favorite title btw, specially Persona 3 Reload, and Persona 4 Golden)
+- Hobby : Playing some video games (Persona Series is my favorite title , specially Persona 3 Reload, and Persona 4 Golden)
 - OS : Arch Linux, Windows10
 - Achievment: I just have one achievment right now btw, and that is 1st place in the Banyumas city level LKS Cyber ​​Security         competition
 - Hope : I hope this year I will be much better than before
